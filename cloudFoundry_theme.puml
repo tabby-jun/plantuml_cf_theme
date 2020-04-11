@@ -1,7 +1,7 @@
 ' defaults
 
 skinparam shadowing false
-skinparam DefaultFontName Proxima Nova
+skinparam DefaultFontName Helvetica
 skinparam ArrowColor #00b2e2
 skinparam DefaultFontColor #454645
 
